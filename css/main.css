@@ -93,3 +93,13 @@ textarea {
     color: #999;
     opacity: 0.8;
 }
+
+.recommend {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.group {
+    display: flex;
+    gap: 10px;
+}
